@@ -18,4 +18,4 @@ only_z	          | ulstr             	|	max	            	| pgcd              |
 	          |                     	| reverse_bits      | rstr_capitalizer  
 	          |                     	| swap_bits         | str_capitalizer   
 	          |                     	| union             | tab_mult         
-		  |                     | wdmatch           | |
+		  |                     | wdmatch   
