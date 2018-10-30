@@ -14,8 +14,8 @@ maff_alpha	    	| rot_13	          	|	inter       			| hidenp            | rostr
 maff_revalpha	  	| rotone          	  |	is_power_of_2	    | lcm               | sort_int_tab        |
 only_a	        	| search_and_replace	|	last_word     		| paramsum          | sort_list           |
 only_z	        	| ulstr             	|	max	            	| pgcd              |
-	              	|                     | print_bits        | print_hex         |
-	              	|                     | reverse_bits      | rstr_capitalizer  |
-	                |                     | swap_bits         | str_capitalizer   |
-	               	|                     | union             | tab_mult          |
+	              	|                     	| print_bits        | print_hex         |
+	              	|                     	| reverse_bits      | rstr_capitalizer  |
+	                |                     	| swap_bits         | str_capitalizer   |
+	               	|                     	| union             | tab_mult          |
 		              |                     | wdmatch           | 
