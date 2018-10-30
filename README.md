@@ -15,8 +15,8 @@ maff_revalpha	  | rotone          	  |	is_power_of_2	    | lcm               | s
 only_a	          | search_and_replace	|	last_word     		| paramsum          | sort_list           |
 only_z	          | ulstr             	|	max	            	| pgcd              |
 ///	          | alpha_mirror         |	print_bits	            	| print_hex              | brackets
-	          |                     	| print_bits        | print_hex         
-	          |                     	| reverse_bits      | rstr_capitalizer  
-	          |                     	| swap_bits         | str_capitalizer   
-	          |                     	| union             | tab_mult         
-		  |                     | wdmatch   
+///	          |                     	| print_bits        | print_hex         
+///	          |                     	| reverse_bits      | rstr_capitalizer  
+///	          |                     	| swap_bits         | str_capitalizer   
+///	          |                     	| union             | tab_mult         
+///		  |                     | wdmatch   
