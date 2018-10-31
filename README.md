@@ -8,7 +8,7 @@ aff_first_param	  | ft_putstr           | do_op	            | epur_str          
 aff_last_param	  | ft_strcpy           | ft_atoi	      	| expand_str        | ft_itoa             | ft_itoa_base
 aff_z		  | ft_strlen                 | ft_strcmp 		        | ft_atoi_base      | ft_list_foreach     | print_memory
 ft_countdown	  | ft_swap		          | ft_strdup 	      | ft_list_size      | ft_list_remove_if   | rpn_calc
-ft_print_numbers  | repeat_alpha		| ft_strrev	      | ft_range          | ft_split            |
+ft_print_numbers  | repeat_alpha		| ft_strrev	      | ft_range          | ft_split            | cycle_detector
 hello		  | rev_print	          |	inter		    	| ft_rrange         | rev_wstr            |
 maff_alpha	  | rot_13	          |	is_power_of_2       			| hidenp            | rostring            |
 maff_revalpha	  | rotone          	  |	last_word 	    | lcm               | sort_int_tab        |
