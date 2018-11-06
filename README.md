@@ -16,6 +16,6 @@ only_a	          | search_and_replace	|	max     		| paramsum          | sort_lis
 only_z	          | ulstr             	|	print_bits	            	| pgcd              | flood_fill
 ///	          |    fizzbuzz                	| reverse_bits        | print_hex         | brainfuck
 ///	          |                     	| swap_bits      | rstr_capitalizer  | ft_itoa_base
-///	          |                     	| union         | str_capitalizer   
+///	          |                     	| union         | str_capitalizer   | moment
 ///	          |                     	| wdmatch            | tab_mult         
 ///		  |                     |   
