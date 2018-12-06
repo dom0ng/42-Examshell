@@ -1,6 +1,9 @@
 # 42-Exam-C-Beginner
 Subject of 42 School - Exam C - Beginner
 
+![exam](https://user-images.githubusercontent.com/26452260/49568761-3785d980-f932-11e8-9642-ec211843efd5.PNG)
+
+
 Level 00          | Level 01            | Level 02          | Level 03          | Level 04            | Level 05
 :-----------  	  | :-----------:       | :-----------:     | -----------:      | -----------:        | -----------:
 aff_a             | first_word          | alpha_mirror      | add_prime_sum     | check_mate          | brackets
